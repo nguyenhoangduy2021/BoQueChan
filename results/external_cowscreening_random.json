@@ -1,0 +1,9 @@
+{
+ "random_split": {
+  "hgb_acc": 0.9919,
+  "hgb_auc": 0.9994,
+  "ens_acc": 0.9501,
+  "ens_auc": 0.9986,
+  "ens_f1": 0.9554
+ }
+}
